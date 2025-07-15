@@ -1,0 +1,13 @@
+aleas :  
+# creer endpoint
+(les methodess dans la controlleur associé a url , on appel le url et on retourne un json, c'est juste mon exmplication mais je coirs que tu comprend bien endpoint)
+nouvelle methode : id du livre , liste exemplaire et disponibilité du livre (c'est ca ce qu'on affiche a l'url quand on y accede).
+
+Fait cette aleas et faite attentions au reste du code , les restes du code devrait bien fonctionner meme apres l'ajout de l'aleas
+Et dit moi quel url a acceder justement pour voir si ca fonctionne
+
+
+
+id adherent ,, information des adhérent , quota ananany , sanctionné ou pas , nombre de livre emprunter , nombre de livre max qu'il peut emprunter 
+
+
